@@ -1,7 +1,4 @@
-# Python Keylogger
-
-This repository contains multiple Python keyloggers. One is a basic keylogger that may not work with special keys, while another is a more complex version that sends captured keystrokes to an email. The advanced keylogger will be added soon.
-
+# PYTHON PROJECTS TO BOOST YOUR PROFILE
 
 ## Installation
 
