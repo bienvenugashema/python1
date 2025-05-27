@@ -1,0 +1,1 @@
+Create a Book class with title, author, and pages. Add a method to return a summary.
