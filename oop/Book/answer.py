@@ -13,7 +13,8 @@ class Book:
         book['pages'] = obj.pages
         cls.books[obj.title] = book
 
-        return cls.books
+        for key, values in  cls.books.items():
+            return f"Book name is: {key}, Author: { (x for x in cls.books.items())}"
 
 obj = Book.add_book("Mathematics", "Mwimule Bienvenu", 90)
 print(obj)    

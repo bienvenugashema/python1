@@ -1,0 +1,1 @@
+Define a Student class with name and scores. Add a method to calculate average score.
