@@ -1,0 +1,2 @@
+Write a function that takes a string and prints it out 10
+ times.
