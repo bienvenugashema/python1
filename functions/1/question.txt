@@ -1,0 +1,2 @@
+Write a function that takes a string and prints out "Wel
+come to PWSAfrica" and the string.
