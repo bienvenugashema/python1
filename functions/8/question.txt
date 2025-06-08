@@ -1,0 +1,5 @@
+At normal atmospheric pressure, water changes state to
+a solid at 0C or below and a gas at 100C or above. It remains a liquid
+at any other temperature.
+Write a function that will return “solid”, “liquid” or “gas” to the
+user depending on the temperature they enter.
