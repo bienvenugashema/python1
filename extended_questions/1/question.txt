@@ -1,0 +1,1 @@
+Use a for-loop to find the length of a list.

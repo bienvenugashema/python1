@@ -1,0 +1,12 @@
+Advanced basics in Python involve nested lists, more data types,
+
+and some more complex problems to solve. Here are a set of ad-
+vanced problems to test your knowledge of what we covered earlier
+
+today, and to test your understanding of this afternoon’s extra con-
+tent!
+
+If you’re new to programming and find these challenging, don’t
+worry. Some of these problems are complicated, and if you’ve made
+it this far you’re doing very well indeed! Ask a tutor for help, and for
+praise on your progress.
