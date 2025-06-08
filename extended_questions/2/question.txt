@@ -1,0 +1,2 @@
+Given a list of integers, use a for-loop to find its maxi-
+mum element; then do the same to find its minimum element.
