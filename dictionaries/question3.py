@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 temperatureCountries = {
     'Rwanda': 29,
     'Nigeria': 28,
@@ -16,7 +15,6 @@ for key, values in temperatureCountries.items():
     elif values < 25:
         print(f"{key} is cold")
     print(f"{key}")       
-=======
 temperatureCountries = {
     'Rwanda': 29,
     'Nigeria': 28,
@@ -34,4 +32,3 @@ for key, values in temperatureCountries.items():
     elif values < 25:
         print(f"{key} is cold")
     print(f"{key}")       
->>>>>>> 9ed0b4a3cbe088f326f19cf78ce3343f71a1a057

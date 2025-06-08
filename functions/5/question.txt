@@ -1,0 +1,2 @@
+Given a string and a character, write a function that
+ returns how many times the character appears in the string.
