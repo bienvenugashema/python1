@@ -1,0 +1,2 @@
+Now print all the elements in its right diagonal. Can you
+find the sum of these elements?
