@@ -1,0 +1,2 @@
+Given a list of integers, how many of its elements are
+positive, negative, and are zeros?
