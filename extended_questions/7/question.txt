@@ -1,0 +1,8 @@
+Given a square matrix of size N × N represented as a list
+of list, print all the elements in its left diagonal. For example, given
+the 3 × 3 matrix
+
+[[11, 2, 4], [4, 5, 6], [10, 8, −12]]
+
+you are expected to print 11 5 − 12 (note that the delimiter is space).
+Can you find the sum of these elements?
