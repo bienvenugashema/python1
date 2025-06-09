@@ -1,12 +1,12 @@
 def count_ints(lst:list):
-    dic = {'Positive':0, "Negative": 0, "Zeroes": 0}
+    dic = {'Positive':0, "Negative": 0, "Zeros": 0}
     for nums in lst:
         if nums > 0:
             dic['Positive'] +=1
         if nums < 0:
             dic['Negative'] += 1
         if nums == 0:
-            dic['Zeroes'] += 1
+            dic['Zeros'] += 1
     return dic             
 
 
