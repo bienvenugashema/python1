@@ -1,3 +1,5 @@
 Given a list of integers, can you find the runner-up? For
 example, given [2, 3, 3, 6, 4, 5], the maximum is 6 and the runner-up
 is 5.
+
+Explanation but not included in the question => runner up is the second largest number in the array
