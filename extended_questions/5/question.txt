@@ -1,0 +1,6 @@
+Suppose you are given the list [1, 1], if you add the last
+two numbers and append it to the list, the new list will be [1, 1, 2].
+If you repeat this addition sequence on the new list three more times,
+you obtain [1, 1, 2, 3, 5, 8]. Starting with [1, 1], can you print the
+resulting list if you carry out this addition sequence 50 times? You’ve
+just printed the first 50 elements of the Fibonacci sequence.
