@@ -1,0 +1,2 @@
+Given a nested list of pairs separate the pair into indi-
+vidual lists.
